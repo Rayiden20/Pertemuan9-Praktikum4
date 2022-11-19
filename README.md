@@ -123,6 +123,38 @@ for isi in baris:
     x.field_names = ["No", "Nama", "Nim", "Tugas", "UTS", "UAS", "Nilai Akhir"]
     x.add_row([no, isi[0], isi[1], isi[2], isi[3], isi[4], isi[5]])
 print(x)
+```
+
+![5](https://user-images.githubusercontent.com/115732267/202841251-3ec2cada-754a-4183-906c-8a3036f23f02.png)
+
+![6](https://user-images.githubusercontent.com/115732267/202841324-0210df24-2746-46e3-838d-ba2f22362463.png)
+
+Berikut hasil run syntax yang saya buat untuk memenuhi praktikum module 4 :
+
+![4](https://user-images.githubusercontent.com/115732267/202841353-476cea4f-b3c5-4266-8bfc-be70a152f735.png)
+
+- Flowchart program diatas adalah sebagai berikut :
+
+![image](https://user-images.githubusercontent.com/115732267/202841403-e558030e-0e69-4559-a32a-1ae46314ff4c.png)
+
+# Berikut langkah-langkah "Tugas Pertemuan 9 Module 4" yang bisa saya jelaskan/jabarkan
+
+# Thanks You
+
+# Rayiden Arfah
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
